@@ -1,0 +1,10 @@
+speechrecognition
+pyttsx3
+youtube-search
+pyjokes
+edge-tts
+pygame
+wikipedia
+requests
+google-generativeai
+pyaudio
