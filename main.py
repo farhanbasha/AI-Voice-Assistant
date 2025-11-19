@@ -18,8 +18,8 @@ from pathlib import Path
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = "2b889559374249dbbdd60a3affd7805b"
-GEMINI_API_KEY = "AIzaSyCuHqYdKZ6Xo5pQ9Rj23IJaxoCvldR7vRY"
+newsapi = "News_API_Here"
+GEMINI_API_KEY = "Gemini_API_Key_Here"
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-2.5-flash')
 
